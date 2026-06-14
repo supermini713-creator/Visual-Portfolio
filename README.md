@@ -10,7 +10,7 @@
 
 <img src="06.jpg" width="100%">
 
-<img src="070707.png" width="100%">
+<img src="07.png" width="100%">
 
 **[🎧APPLE MUSIC🎧](https://music.apple.com/profile/supermini713)**
 
